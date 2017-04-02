@@ -8,3 +8,4 @@ get profile info and print out to the console
 * [x] TODO: Read the data
 * [x] TODO: Parse the data
 * [x] TODO: Print the data out
+* [x] if conditions
