@@ -5,6 +5,6 @@ get profile info and print out to the console
 
 ## TODO
 * [x] connect to Github API
-* [ ] TODO: Read the data
+* [x] TODO: Read the data
 * [ ] TODO: Parse the data
 * [ ] TODO: Print the data out
