@@ -11,3 +11,4 @@ get profile info and print out to the console
 * [x] if conditions
 * [x] multiple search git and create profile.js file to make it modular
 * [x] add variable container to call data
+* [x] using process argv to get data from terminal
