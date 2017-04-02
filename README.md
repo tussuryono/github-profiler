@@ -10,3 +10,4 @@ get profile info and print out to the console
 * [x] TODO: Print the data out
 * [x] if conditions
 * [x] multiple search git and create profile.js file to make it modular
+* [x] add variable container to call data

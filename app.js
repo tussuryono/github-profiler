@@ -4,7 +4,8 @@
 
 let profile = require('./profile.js')
 
+let profiles = ['yofri', 'rizafahmi', 'ronishak']
 
-profile.get('rizafahmi')
-profile.get('yofri')
-profile.get('ronishak')
+profiles.map(user => {
+  return profile.get(user)
+})
